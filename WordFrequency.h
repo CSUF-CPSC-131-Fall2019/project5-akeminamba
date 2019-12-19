@@ -7,6 +7,7 @@ using std::string;
 class WordFrequency {
 private:
     // TO BE COMPLETED
+    std::unordered_map <string,int>mymap;
 
 public:
     WordFrequency(); // default constructor
